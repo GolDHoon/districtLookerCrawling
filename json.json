@@ -1,0 +1,17 @@
+{
+  "local":
+  {
+    "db":
+    {
+      "csv_file_path":"C:\\data\\AreteOderList\\DB\\order_list",
+      "GA4_data_path": "C:\\data\\AreteOderList\\DB\\GA4",
+      "sheet_id":"1RutlOklGKXBk-XNJjTfL40i0szop-X9KMY-obVMraHk"
+    },
+    "lv":
+    {
+      "csv_file_path":"C:\\data\\AreteOderList\\LV\\order_list",
+      "GA4_data_path": "C:\\data\\AreteOderList\\LV\\GA4",
+      "sheet_id":"1NkTNVFQDAE8ZPFiF-a3Vj5SVKRix5BMG_LahRgrO6Y8"
+    }
+  }
+}
